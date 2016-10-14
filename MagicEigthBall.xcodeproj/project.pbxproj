@@ -38,7 +38,7 @@
 		016FB2741DB06B8400E59CF9 = {
 			isa = PBXGroup;
 			children = (
-				016FB27F1DB06B8500E59CF9 /* MagicEigthBall */,
+				016FB27F1DB06B8500E59CF9 /* MagicEightBall */,
 				016FB27E1DB06B8500E59CF9 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -51,7 +51,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		016FB27F1DB06B8500E59CF9 /* MagicEigthBall */ = {
+		016FB27F1DB06B8500E59CF9 /* MagicEightBall */ = {
 			isa = PBXGroup;
 			children = (
 				016FB2801DB06B8500E59CF9 /* AppDelegate.swift */,
@@ -61,6 +61,7 @@
 				016FB2891DB06B8500E59CF9 /* LaunchScreen.storyboard */,
 				016FB28C1DB06B8500E59CF9 /* Info.plist */,
 			);
+			name = MagicEightBall;
 			path = MagicEigthBall;
 			sourceTree = "<group>";
 		};
